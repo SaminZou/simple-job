@@ -1,12 +1,12 @@
-package com.samin.sj.server;
+package com.samin.sj.admin;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class JobServerApplication {
+public class SjAdminApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(JobServerApplication.class, args);
+        SpringApplication.run(SjAdminApplication.class, args);
     }
 }
