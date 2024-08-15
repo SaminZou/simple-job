@@ -1,4 +1,4 @@
-rootProject.name = 'job-center'
-include 'job-sdk'
-include 'job-server'
-include 'job-admin'
+rootProject.name = 'sj-center'
+include 'sj-sdk'
+include 'sj-server'
+include 'sj-admin'
