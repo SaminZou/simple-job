@@ -20,7 +20,7 @@ repositories {
 }
 
 dependencies {
-    implementation project(':job-sdk')
+    implementation project(':sj-sdk')
     // implementation 'org.springframework.data:spring-data-common:2.7.5'
     implementation 'org.springframework.boot:spring-boot-starter-data-jpa:2.7.5'
     implementation 'org.springframework.boot:spring-boot-starter-web:2.7.5'

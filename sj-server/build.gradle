@@ -20,7 +20,7 @@ repositories {
 }
 
 dependencies {
-    implementation project(':job-sdk')
+    implementation project(':sj-sdk')
     implementation 'org.springframework.boot:spring-boot-starter-amqp:2.7.5'
     implementation 'org.springframework.boot:spring-boot-starter-data-jpa:2.7.5'
     implementation 'org.springframework.boot:spring-boot-starter:2.7.5'

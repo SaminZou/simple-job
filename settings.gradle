@@ -1,4 +1,4 @@
-rootProject.name = 'sj-center'
+rootProject.name = 'simple-job'
 include 'sj-sdk'
 include 'sj-server'
 include 'sj-admin'
